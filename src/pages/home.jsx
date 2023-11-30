@@ -24,7 +24,7 @@ function home() {
 
       const pdfOpen=(e)=>{
           e.preventDefault();
-          window.open('https://drive.google.com/file/d/1c7Q2LpFaMBAO6uneCLA-tcoxsNX-Ixxq/view','_blank');
+          window.open(','_blank');
       }
 
   return (
